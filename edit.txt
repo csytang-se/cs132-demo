@@ -1,1 +1,2 @@
 NULL
+New line of text has been added
